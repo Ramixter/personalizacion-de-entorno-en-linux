@@ -5,7 +5,7 @@ Vamos a aprender a personalizar nuestro sistema operativo Linux en los siguiente
 1. [INTRODUCCIÓN](https://github.com/Ramixter/personalizacion-de-entorno-en-linux/tree/main/1-INTRODUCCION)
    - [Instalación del sistema operativo](https://github.com/Ramixter/personalizacion-de-entorno-en-linux/tree/main/1-INTRODUCCION#1---introducci%C3%B3n)
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Personalización de entorno en Linux |
+| --- |
+| List all *new or modified* files |
+| Show file differences that **haven't been** staged |
