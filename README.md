@@ -1,4 +1,5 @@
-# Personalización de entorno en Linux
+Personalización de entorno en Linux
+-----------------------------------
 
 Vamos a aprender a personalizar nuestro sistema operativo Linux en los siguientes apartados que veremos a continuación:
 
