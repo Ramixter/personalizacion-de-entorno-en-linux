@@ -1,6 +1,5 @@
 
-| Personalización de entorno en Linux |
----------------------------------------
+# Índice
 
 Vamos a aprender a personalizar nuestro sistema operativo Linux en los siguientes apartados que veremos a continuación:
 
